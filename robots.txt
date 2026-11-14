@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uvlasov57-collab.github.io/tihaya-pamyat/sitemap.xml
